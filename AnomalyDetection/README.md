@@ -5,7 +5,7 @@ AnomalyDetection is proof-of-concept code that demonstrates the ability to detec
 tries to suggest possible reasons for the anomalies based on past experiences. The anomaly detection is called the "unsupervised"
 component as it operates on unlabeled data. The component that suggests possible reasons for the anomalies is called 
 "supervised" because it draws on information previously labeled by an operator. Once the actual cause of an unsupervised
-anomaly is known, the user annotates it as such and it becomes a new datapoint for the supervised component.
+anomaly is known, the user annotates it as such and it becomes a new datapoint for the supervised component. For more information on this, see [this diagram](docs/AnomalyDetectionFlowChart.pdf)
 
 Anomaly detection can be accomplished using a plethora of algorithms. Each technique has strengths and weaknesses depending
 on the nature of the input data. We are currently using Support Vector Machines with a Chi Squared kernel. However
