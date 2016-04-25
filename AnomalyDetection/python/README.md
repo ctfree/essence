@@ -1,7 +1,7 @@
 AnomalyDetection python
 =======================
 
-For more about Anomaly Detection, see the [parent doc](https://github.com/dpinney/essence/AnomalyDetection)
+For more about Anomaly Detection, see the [parent doc](..)
 
 As of this writing, this code is tested internally under both supervised and
 unsupervised learning. It has also been run against an existing
