@@ -1,7 +1,7 @@
 AnomalyDetection python
 =======================
 
-For more about this project, see the [parent doc](https://github.com/twongCMU/AnomalyDetection)
+For more about Anomaly Detection, see the [parent doc](https://github.com/dpinney/essence/AnomalyDetection)
 
 As of this writing, this code is tested internally under both supervised and
 unsupervised learning. It has also been run against an existing
@@ -11,7 +11,6 @@ dataset but the anomaly reporting to Essence has not.
 To run the most recent release with the REST service exported
 to port 5000, install Docker, then simply run:
  * docker run -p 5000:5000 twongcmu/anomalydetection
-(This is a private repo so you will need access permissions)
 
 ## Building a new Docker container 
 To build and run the Docker container:

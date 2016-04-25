@@ -46,7 +46,7 @@ As the Java code is proof-of-concept and we do not yet know what kinds of Multis
 some of the problems and hopefully construct a better foundation for future changes. The REST API is different
 in this port so we have not yet used it in a demo.
 
-For more information, see [the python page](https://github.com/twongCMU/AnomalyDetection/tree/twong/python/python)
+For more information, see [the python page](python)
 
 Shortcomings of the Java code
  * Required 3rd party library that had to be manually installed (not in Maven repo)
