@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Essence® Site Terms of Use
 
 Last Modified: Jan 13, 2016
@@ -442,7 +441,4 @@ This website is operated by the National Rural Electric Cooperative Association.
 
 All notices of copyright infringement claims should be sent to the copyright agent designated in our Copyright Policy https://raw.githubusercontent.com/dpinney/omf/master/Copyright%20and%20Trademark.txt in the manner and by the means set forth therein.
 
-All other feedback, comments, requests for technical support and other communications relating to the Website should be directed to: David.Pinney@NRECA.coop.
-
->>>>>>> Ping_Working
 Thank you for visiting the Website.
