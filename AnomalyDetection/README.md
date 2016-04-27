@@ -38,7 +38,7 @@ mvn clean; mvn tomcat:run
 There are no self-contained tests as this code depends on an external packet database as well as Essence. The Python port attempts to address this issue using artifical data to validate correctness. However the generated data is not a realistic
 simulation.
 
-To perform a simple manual exercise, see the file docs/live_demo_outline_jan_2016
+To perform a simple manual exercise, see this [demo outline](docs/live_demo_outline_jan_2016)
 
 # Python port
 As the Java code is proof-of-concept and we do not yet know what kinds of Multispeak traffic to expect, the code
