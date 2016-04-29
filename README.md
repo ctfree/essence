@@ -5,4 +5,4 @@ Full documentation can be found in the [Essence wiki](https://github.com/dpinney
 
 ## How do I install Essence?
 
-Installation documentation can also be found in the (Essence Installation Guide)[https://github.com/dpinney/essence/wiki/Essence-Installation-Guide] in the wiki.
+Installation documentation can also be found in the [Essence Installation Guide](https://github.com/dpinney/essence/wiki/Essence-Installation-Guide) in the wiki.
