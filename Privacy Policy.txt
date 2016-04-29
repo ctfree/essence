@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Essence® Privacy Policy
 
 Last Modified: Jan 13, 2016
@@ -361,6 +360,3 @@ Contact Information
 
 To ask questions or comment about this privacy policy and our privacy practices, contact us at: 
 
-David.Pinney@nreca.coop; or
->>>>>>> Ping_Working
-NRECA, Attn: David Pinney, 4301 Wilson Blvd, Arlington, VA 22203
