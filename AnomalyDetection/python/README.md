@@ -10,7 +10,7 @@ dataset but the anomaly reporting to Essence has not.
 ## Running the current release with Docker (easiest way)
 To run the most recent release with the REST service exported
 to port 5000, install Docker, then simply run:
- * docker run -p 5000:5000 twongcmu/anomalydetection
+ * docker run -p 5000:5000 autonlab/anomalydetection-powergrid
 
 ## Building a new Docker container 
 To build and run the Docker container:
